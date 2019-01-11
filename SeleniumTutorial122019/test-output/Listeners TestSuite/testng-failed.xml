@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Listeners TestSuite]">
+  <test thread-count="5" name="Application Test(failed)">
+    <classes>
+      <class name="testngdemo.TestngListenerDemo">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="asuite"/>
+          <include name="setUp"/>
+          <include name="testMethod2"/>
+          <include name="bsuite"/>
+          <include name="amethod"/>
+          <include name="testMethod3"/>
+          <include name="atest"/>
+          <include name="btest"/>
+          <include name="bmethod"/>
+        </methods>
+      </class> <!-- testngdemo.TestngListenerDemo -->
+    </classes>
+  </test> <!-- Application Test(failed) -->
+  <test thread-count="5" name="Application Test 1(failed)">
+    <classes>
+      <class name="testngdemo.TestngListenerDemo">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="asuite"/>
+          <include name="setUp"/>
+          <include name="testMethod2"/>
+          <include name="bsuite"/>
+          <include name="amethod"/>
+          <include name="testMethod3"/>
+          <include name="atest"/>
+          <include name="btest"/>
+          <include name="bmethod"/>
+        </methods>
+      </class> <!-- testngdemo.TestngListenerDemo -->
+    </classes>
+  </test> <!-- Application Test 1(failed) -->
+</suite> <!-- Failed suite [Listeners TestSuite] -->
