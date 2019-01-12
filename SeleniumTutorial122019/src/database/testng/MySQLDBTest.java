@@ -34,7 +34,7 @@ public class MySQLDBTest {
 		@BeforeClass
 		  public void beforeClass() {
 			  
-			// Properties for creating connection to database
+			// Properties for creating connection to databases - another way to set passwords
 					Properties props = new Properties();
 					props.setProperty("user", "root");
 					props.setProperty("password", "adit2688");
@@ -60,8 +60,7 @@ public class MySQLDBTest {
 		
 		
   @Test
-  public void f() {
-	  
+  public void f() {	  
 	     String query = "select * from user";
 	        try {
 	        	// STEP 4: Extract data from result set
