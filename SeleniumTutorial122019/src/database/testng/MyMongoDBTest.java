@@ -39,18 +39,11 @@ public class MyMongoDBTest {
 			// STEP 2: Get Collection
 			MongoCollection<Document> table = db.getCollection("user");
 			// STEP 3: Extract Data
-			BasicDBObject searchQuery = new BasicDBObject();
-			searchQuery.put("name", "Bharat");
-			FindIterable<Document> cursor = table.find(searchQuery);
+			FindIterable<Document> cursor = table.find();
 			
 			// STEP 4: Iterate over data
 			for (Document obj : cursor) {
-				String name = obj.getString("name");
-				System.out.println(name);
-				System.out.println("*************************");
 				System.out.println(obj.toString());
-				
-				Assert.assertEquals("", "");
 			}
 			
 		} catch (Exception e) {
