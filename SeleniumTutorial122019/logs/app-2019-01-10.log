@@ -1,0 +1,60 @@
+22:49:01.999 INFO  testngdemo.ExpediaSrchPageTestng -Browser started
+22:49:02.110 INFO  testngdemo.ExpediaSrchPageTestng -Page factory class initialized
+22:49:03.347 INFO  testngdemo.ExpediaSrchPageTestng -Browser maximized
+22:49:20.495 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:49:23.944 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:49:27.859 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:49:30.975 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:49:33.796 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:49:37.418 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:49:55.786 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:49:55.790 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:50:13.386 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:50:16.605 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:50:21.597 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:50:24.868 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:50:27.938 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:50:31.208 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:50:39.237 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:50:39.238 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:50:56.100 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:50:59.300 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:51:03.120 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:51:06.087 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:51:08.930 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:51:12.355 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:51:19.551 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:51:19.552 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:51:45.435 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:51:48.474 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:51:52.275 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:51:55.315 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:51:58.179 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:52:01.212 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:52:05.176 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:52:05.177 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:52:23.644 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:52:36.968 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:52:40.138 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:52:43.885 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:52:46.990 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:52:49.935 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:52:53.063 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:53:02.465 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:53:02.466 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:53:18.852 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:53:22.412 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:53:26.503 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:53:29.930 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:53:32.980 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:53:35.903 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:53:47.081 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:53:47.081 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful
+22:54:03.556 INFO  testngdemo.ExpediaSrchPageTestng -Expedia website opened
+22:54:06.540 INFO  testngdemo.ExpediaSrchPageTestng -Entered flying from
+22:54:10.310 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing to
+22:54:13.427 INFO  testngdemo.ExpediaSrchPageTestng -Entered departing date
+22:54:16.535 INFO  testngdemo.ExpediaSrchPageTestng -Entered returning date
+22:54:19.467 INFO  testngdemo.ExpediaSrchPageTestng -Entered travellers count
+22:54:32.778 INFO  testngdemo.ExpediaSrchPageTestng -Clicked the submit button
+22:54:32.779 INFO  testngdemo.ExpediaSrchPageTestng -Verified the test case and it's successful

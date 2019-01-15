@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="138" started-at="2019-01-12T00:11:21Z" finished-at="2019-01-12T00:11:21Z">
+  <suite name="Default suite" duration-ms="59740" started-at="2019-01-12T00:51:00Z" finished-at="2019-01-12T00:52:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="138" started-at="2019-01-12T00:11:21Z" finished-at="2019-01-12T00:11:21Z">
-      <class name="database.testng.MyMongoDBTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:database.testng.MyMongoDBTest@8bd1b6a]" name="beforeClass" is-config="true" duration-ms="34" started-at="2019-01-12T00:11:21Z" finished-at="2019-01-12T00:11:21Z">
+    <test name="Default test" duration-ms="59740" started-at="2019-01-12T00:51:00Z" finished-at="2019-01-12T00:52:00Z">
+      <class name="performancetesting.SearchPageTestng">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:performancetesting.SearchPageTestng@1d2adfbe]" name="setUp" is-config="true" duration-ms="8357" started-at="2019-01-12T00:51:00Z" finished-at="2019-01-12T00:51:08Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="f()[pri:0, instance:database.testng.MyMongoDBTest@8bd1b6a]" name="f" duration-ms="22" started-at="2019-01-12T00:11:21Z" finished-at="2019-01-12T00:11:21Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:performancetesting.SearchPageTestng@1d2adfbe]" name="test" duration-ms="45069" started-at="2019-01-12T00:51:08Z" finished-at="2019-01-12T00:51:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:database.testng.MyMongoDBTest@8bd1b6a]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-01-12T00:11:21Z" finished-at="2019-01-12T00:11:21Z">
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:performancetesting.SearchPageTestng@1d2adfbe]" name="tearDown" is-config="true" duration-ms="6234" started-at="2019-01-12T00:51:53Z" finished-at="2019-01-12T00:52:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- database.testng.MyMongoDBTest -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- performancetesting.SearchPageTestng -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

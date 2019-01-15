@@ -35,5 +35,8 @@
 		<Logger name="testngdemo" level="all" additivity="false">
 			<AppenderRef ref="File"/>
 		</Logger>
+		<Logger name="performancetesting" level="all" additivity="false">
+			<AppenderRef ref="File"/>
+		</Logger>
 	</Loggers>
 </Configuration>
